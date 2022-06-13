@@ -118,5 +118,6 @@ Feedstock Maintainers
 
 * [@MBPhys](https://github.com/MBPhys/)
 * [@RobAnKo](https://github.com/RobAnKo/)
-* [@conda-forge/napari](https://github.com/conda-forge/napari/)
+* [@goanpeca](https://github.com/goanpeca/)
+* [@jaimergp](https://github.com/jaimergp/)
 
